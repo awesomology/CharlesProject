@@ -1,0 +1,364 @@
+main {
+        display: flex;
+        position: absolute;
+        top: 150px;
+        left: 343px;
+      }
+
+      .userD {
+        position: absolute;
+        top: 60px;
+      }
+
+      .black {
+        display: flex;
+        position: absolute;
+        top: 50px;
+        left: 740px;
+      }
+
+      .activate {
+        position: absolute;
+        top: 50px;
+        left: 930px;
+      }
+
+      .userContainer {
+        background-color: white;
+        display: flex;
+        align-items: center;
+        position: absolute;
+        width: 1100px;
+        height: 210px;
+        top: 121px;
+      }
+
+      .elli {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        top: 30px;
+        left: 30px;
+      }
+
+      .person {
+        position: absolute;
+        top: 59px;
+        left: 59px;
+      }
+
+      .name {
+        position: absolute;
+        top: 55px;
+        left: 150px;
+      }
+
+      .line1 {
+        position: absolute;
+        top: 40px;
+        left: 320px;
+      }
+
+      .line2 {
+        position: absolute;
+        top: 40px;
+        left: 460px;
+      }
+
+      .tier {
+        position: absolute;
+        top: 55px;
+        left: 355px;
+      }
+
+      .bal {
+        position: absolute;
+        top: 50px;
+        left: 500px;
+      }
+
+      .option {
+        display: flex;
+        position: absolute;
+        top: 304px;
+        left: 30px;
+      }
+
+      .general {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+      }
+
+      .docs {
+        position: absolute;
+        top: 4px;
+        left: 220px;
+      }
+
+      .deets {
+        position: absolute;
+        top: 2px;
+        left: 400px;
+      }
+
+    .loan {
+      position: absolute;
+      top: 2px;
+      left: 590px;
+    }
+
+    .saving {
+      position: absolute;
+      top: 2px;
+      left: 740px;
+    }
+
+    .aAndS {
+      position: absolute;
+      top: 2px;
+      left: 890px;
+    }
+
+    .personal {
+      background-color: white;
+      display: flex;
+      align-items: center;
+      position: absolute;
+      width: 1100px;
+      height: 970px;
+      top: 360px;
+    }
+
+    .sect1 {
+      display: flex;
+      position: absolute;
+      top: 31px;
+      left: 30px;
+    }
+
+    .pInfo {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+    }
+
+    .first {
+      display: flex;
+      position: absolute;
+      top: 50px;
+    }
+
+    .lName {
+      position: relative;
+    }
+
+    .lPhone {
+      position: relative;
+      left: 100px;
+    }
+
+    .lEmail {
+      position: relative;
+      left: 210px;
+    }
+    
+    .lBVN {
+      position: relative;
+      left: 310px;
+    }
+
+    .lGender {
+      position: relative;
+      left: 440px;
+    }
+
+    .sec {
+      display: flex;
+      position: absolute;
+      top: 140px;
+    }
+
+    .mStats {
+      position: relative;
+    }
+
+    .children {
+      position: relative;
+      left: 100px;
+    }
+
+    .tOfResidence {
+      position: relative;
+      left: 258px;
+    }
+
+    .divider {
+      position: absolute;
+      width: 1030px;
+      top: 240px;
+      left: 30px;
+    }
+
+    .sect2 {
+      display: flex;
+      position: absolute;
+      top: 280px;
+      left: 30px;
+    }
+
+    .c1 {
+      display: flex;
+      position: absolute;
+      top: 50px;
+      left: 0px;
+    }
+
+    .empStats {
+      position: relative;
+      left: 130px;
+    }
+
+    .secEmp {
+      position: relative;
+      left: 280px;
+    }
+
+    .durEmp {
+      position: relative;
+      left: 400px;
+    }
+
+    .c2 {
+      display: flex;
+      position: absolute;
+      top: 130px;
+      left: 0px;
+    }
+
+
+    .month {
+      position: relative;
+      left: 107px;
+    }
+
+    .loanRepay {
+      position: relative;
+      left: 172px;
+    }
+
+    .divider2 {
+      position: absolute;
+      width: 1030px;
+      top: 490px;
+      left: 30px;
+    }
+
+    .sect3 {
+      display: flex;
+      position: absolute;
+      top: 530px;
+      left: 30px;
+    }
+
+    .s1 {
+      display: flex;
+      position: absolute;
+      top: 50px;
+      left: 0px;
+    }
+
+    .twitter {
+      position: relative;
+      left: 0px;
+    }
+
+    .faceBook {
+      position: relative;
+      left: 110px;
+    }
+
+    .instagram {
+      position: relative;
+      left: 210px;
+    }
+
+    .divider3 {
+      position: absolute;
+      width: 1030px;
+      top: 650px;
+      left: 30px;
+    }
+
+    .sect4 {
+      display: flex;
+      position: absolute;
+      top: 690px;
+      left: 30px;
+    }
+
+    .t1 {
+      display: flex;
+      position: absolute;
+      top: 50px;
+    }
+
+    .fName {
+      position: relative;
+      left: 0px;
+    }
+
+    .phoneNum {
+      position: relative;
+      left: 110px;
+    }
+
+    .Email {
+      position: relative;
+      left: 210px;
+    }
+
+    .relative {
+      position: relative;
+      left: 310px;
+    }
+
+    .divider4 {
+      position: absolute;
+      width: 1030px;
+      top: 810px;
+      left: 30px;
+    }
+
+    .sect5 {
+      display: flex;
+      position: absolute;
+      top: 830px;
+      left: 30px;
+    }
+
+    .t2 {
+      display: flex;
+      position: absolute;
+      top: 50px;
+    }
+
+    .fName2 {
+      position: relative;
+      left: 0px;
+    }
+
+    .phoneNum2 {
+      position: relative;
+      left: 110px;
+    }
+
+    .Email2 {
+      position: relative;
+      left: 210px;
+    }
+
+    .relative2 {
+      position: relative;
+      left: 310px;
+    }

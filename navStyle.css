@@ -1,0 +1,272 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "poppins", "sans-serif";
+  background: #f8f9fa;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  width: 1440px;
+  height: 100px;
+  background: #fff;
+  border-bottom: 1px solid #ececec;
+}
+
+.navbar-left .logo {
+  height: 32px;
+}
+
+.navbar-center {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.search-container {
+  display: flex;
+  width: 100%;
+  max-width: 500px;
+  border: 1px solid #edeff2;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.search-input {
+  flex: 1;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  color: #545f7d;
+}
+
+.search-btn {
+  background: #39cdcc;
+  border: none;
+  padding: 0 1rem;
+  cursor: pointer;
+}
+
+.search-btn img {
+  font-size: 1rem;
+  color: #fff;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.nav-link {
+  font-size: 0.9rem;
+  color: #545f7d;
+  transition: color 0.2s;
+}
+
+.nav-link:hover {
+  color: #39cdcc;
+}
+
+.icon-btn {
+  background: none;
+  border: none;
+  position: relative;
+  cursor: pointer;
+  font-size: 1.1rem;
+}
+
+/* .icon-btn:hover {
+  color: #39cdcc;
+} */
+
+.user-menu {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
+.username {
+  position: relative;
+  color: #213f7d;
+  top: 5px;
+}
+
+.dropdown-icon {
+  color: #213f7d;
+  position: relative;
+  left: -3px;
+}
+
+.side-nav {
+  width: 283px;
+  height: 1500px;
+  background: white;
+  position: relative;
+}
+
+.side-nav-left {
+  position: absolute;
+  width: 2006px;
+  height: 19px;
+  top: 19px;
+  left: 30px;
+  cursor: pointer;
+}
+
+.work {
+  position: absolute;
+  width: 197px;
+  height: 19px;
+  top: 19px;
+}
+
+.dash {
+  position: absolute;
+  top: 79px;
+}
+
+.customers {
+  position: absolute;
+  top: 139px;
+}
+
+.users {
+  position: absolute;
+  top: 159px;
+  right: 1752px;
+}
+
+.guarantors {
+  position: absolute;
+  top: 213px;
+}
+
+.loans {
+  position: absolute;
+  top: 259px;
+}
+
+.models {
+  position: absolute;
+  top: 309px;
+}
+
+.savings {
+  position: absolute;
+  top: 359px;
+}
+
+.requests {
+  position: absolute;
+  top: 409px;
+}
+
+.whitelist {
+  position: absolute;
+  top: 459px;
+}
+
+.karma {
+  position: absolute;
+  top: 509px;
+}
+
+.business {
+  position: absolute;
+  top: 579px;
+}
+
+.organization {
+  position: absolute;
+  top: 609px;
+}
+
+.loanP {
+  position: absolute;
+  top: 659px;
+}
+
+.savingsP {
+  position: absolute;
+  top: 709px;
+}
+
+.fAndC {
+  position: absolute;
+  top: 759px;
+}
+
+.transactions {
+  position: absolute;
+  top: 809px;
+}
+
+.services {
+  position: absolute;
+  top: 859px;
+}
+
+.serviceA {
+  position: absolute;
+  top: 909px;
+}
+
+.settle {
+  position: absolute;
+  top: 959px;
+}
+
+.reports {
+  position: absolute;
+  top: 1009px;
+}
+
+.settings {
+  position: absolute;
+  top: 1079px;
+}
+
+.preferences {
+  position: absolute;
+  top: 1109px;
+}
+
+.fAndP {
+  position: absolute;
+  top: 1159px;
+}
+
+.audits {
+  position: absolute;
+  top: 1209px;
+}
+
+.systemsM {
+  position: absolute;
+  top: 1259px;
+}
+
+.logout {
+  position: absolute;
+  top: 1373px;
+  right: 1752px;
+}
+
+.version {
+  position: absolute;
+  top: 1451px;
+}
